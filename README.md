@@ -39,5 +39,5 @@ In analyzing the data, several themes emerge:
 
 Additionally, using machine learning, a predictor app was created that predicts whether a person is likely to be arrested if they encounter the police, based on demographic information provided. While the model was only able to achieve about 62% accuracy, a more accurate app could be developed in the future with more data. (**ADD SOMETHING HERE ABOUT THE RECALL/PRECISION STATS AND WHY IT'S MORE IMPORTANT TO HAVE FALSE POSITIVES THAN FALSE NEGATIVES?**)
 
-## Future State
+## Future Opportunities
 Moving forward, the group aims to expand this analysis to encompass the entire incarceration process. This includes investigating the factors that increase an individual's likelihood of being incarcerated and understanding the drivers of recidivism. The objective is to create a comprehensive model that highlights the complexities of the criminal justice system, with a focus on addressing and mitigating disparities and systemic biases.

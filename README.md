@@ -1,49 +1,29 @@
-#Group 8 Project 4 Document
-Investigating the Prison Pipeline
-Members: 
-Adina Raizen				Henry Luken				Patrick Aubry 
-Introduction
-Given demographics, like health, income status, social class, geography, etc. can we predict with relative certainty if you will spend any time incarcerated?
+# Investigating the Prison Pipeline:
+## Understanding the Factors Influencing Arrests and Policing Disparities in Lancaster, CA
 
-Further, what are the factors that affect if you are arrested, if you are jailed, and further, if you are incarcerated. 
+## Contributors
+* Adina Raizen
+* Henry Luken
+* Patrick Aubry 
 
-Essentially, what factors affect the Prison Pipeline. 
-Overview
-There will be several factors to investigate for this presentation about the Prison Pipeline. Namely: 
-Policing
-What are factors that contribute to over and under policing given demographics?
-Arrest
-What are the factors that contribute to a person being arrested for a given crime, geography, ethnicity, race,?
-Incarceration
-What are the factors that contribute to a person being incarcerated?
+## Introduction
+The main goal of this project is to investigate the factors that influence policing and incarceration, with a particular focus on the city of Lancaster, CA. The project aims to explore the prison pipeline and understand why certain demographics, especially Black men in their 20s and 30s, are disproportionately affected by encounters with police and subsequent arrests. By examining relevant data and leveraging machine learning, the project seeks to develop a predictive model that can determine the likelihood of an individual's arrest based on basic demographics.
 
-Presenting findings
-Our plan is to: 
- Present a visual story that describes the factors mentioned above
- Create and train a complex model to predict a person's likelihood to be incarcerated at some point in their life. 
+By shedding light on the factors influencing arrests and policing disparities in Lancaster, CA, this project aims to raise awareness about systemic issues and contribute to evidence-based policy-making. The findings and predictive model can be used to guide law enforcement practices, promote social justice, and develop intervention strategies aimed at reducing incarceration rates and fostering a fairer criminal justice system.
 
+## Methodology
+The project focuses on Lancaster, CA, examining data related to police encounters and arrests. Factors that were considered include race, gender, homelessness, and disability. 
 
-Data Set Research
-Prison and Jail Demographic information
-https://www.icpsr.umich.edu/web/NACJD/studies/38555/summary#
+The primary data source used is the 2019 [Los Angeles County Sheriff’s Deputy Contacts in Lancaster dataset](https://www.propublica.org/datastore/dataset/los-angeles-county-sheriffs-deputy-contacts-in-lancaster) from propublica.org. Additional demographic data was pulled from (ADD SOURCE!).
 
-https://www.prisonpolicy.org/data/
-Demographic data sets from both Prison and Jail samples
-Likely the top data set 
+The 
 
-https://www.prisonpolicy.org/reports/beyondthecount.html#appendices
-Tableau and vis examples. Very well done example of a visual presentation. 
+## Current Conclusion
+In analyzing the data, several themes emerge:
 
-https://www.sentencingproject.org/research/detailed-state-data-tool/
+(ADD HERE, WITH VISUALIZATIONS)
 
-https://www.peoplespolicyproject.org/projects/prisoner-voting/ great for vis data idea. 
+Additionally, using machine learning, a predictor app was created that predicts whether a person is likely to be arrested if they encounter the police, based on demographic information provided. While the model was only able to achieve about 62% accuracy, a more accurate app could be developed in the future with more data.
 
-Income Inequality Demographic Data
-https://wid.world/data/
-
-Policing and Arrest Data
-
-https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/persons-arrested
-Good for vis 
-
-https://bjs.ojp.gov/data/topic
+## Future State
+Moving forward, the group aims to expand this analysis to encompass the entire incarceration process. This includes investigating the factors that increase an individual's likelihood of being incarcerated and understanding the drivers of recidivism. The objective is to create a comprehensive model that highlights the complexities of the criminal justice system, with a focus on addressing and mitigating disparities and systemic biases.

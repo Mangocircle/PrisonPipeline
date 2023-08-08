@@ -37,7 +37,11 @@ In analyzing the data, several themes emerge:
 
 (**ADD HERE, WITH VISUALIZATIONS**)
 
-Additionally, using machine learning, a predictor app was created that predicts whether a person is likely to be arrested if they encounter the police, based on demographic information provided. While the model was only able to achieve about 62% accuracy, a more accurate app could be developed in the future with more data. (**ADD SOMETHING HERE ABOUT THE RECALL/PRECISION STATS AND WHY IT'S MORE IMPORTANT TO HAVE FALSE POSITIVES THAN FALSE NEGATIVES?**)
+Additionally, using machine learning, a predictor app was created that predicts whether a person is likely to be arrested if they encounter the police, based on demographic information provided. While the model was only able to achieve about 62% accuracy, a more accurate app could be developed in the future with more data.
+
+In analyzing the recall and precision rates of the logistic regression model, there was a 77% recall rate for predicting arrests. So, while the overall accuracy was below the desired 75% threshold, the recall rate is important to consider when evaluating the effectiveness of the model. When predicting arrest likelihood, recall takes precedence over accuracy because the primary concern is identifying individuals who are likely to be arrested. This is especially important for addressing bias, systemic issues, and disparities within the criminal justice system. By maximizing recall, the model strives to create a fairer and more effective predictive approach.
+
+![Screenshot 2023-08-07 185659](https://github.com/Mangocircle/PrisonPrediction/assets/121266277/a4fbb927-46f2-4457-ba9e-016f877a3fbb)
 
 ## Future Opportunities
 Moving forward, the group aims to expand this analysis to encompass the entire incarceration process. This includes investigating the factors that increase an individual's likelihood of being incarcerated and understanding the drivers of recidivism. The objective is to create a comprehensive model that highlights the complexities of the criminal justice system, with a focus on addressing and mitigating disparities and systemic biases.

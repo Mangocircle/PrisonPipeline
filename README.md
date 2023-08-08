@@ -14,7 +14,7 @@ By shedding light on the factors influencing arrests and policing disparities in
 ## Methodology
 The project focuses on Lancaster, CA, examining data related to police encounters and arrests. Factors that were considered include race, gender, homelessness, and disability. 
 
-The primary data source used is the 2019 [Los Angeles County Sheriff’s Deputy Contacts in Lancaster dataset](https://www.propublica.org/datastore/dataset/los-angeles-county-sheriffs-deputy-contacts-in-lancaster) from propublica.org. Additional demographic data was pulled from (**ADD SOURCE!**).
+The primary data source used is the 2019 [Los Angeles County Sheriff’s Deputy Contacts in Lancaster dataset](https://www.propublica.org/datastore/dataset/los-angeles-county-sheriffs-deputy-contacts-in-lancaster) from propublica.org. Additional demographic data was pulled from the [U.S. Census Bureau](https://www.census.gov/quickfacts/fact/table/lancastercitycalifornia/RHI225222#RHI225222).
 
 This project is comprised of two parts:
 1. Data Analysis

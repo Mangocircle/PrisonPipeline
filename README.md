@@ -37,7 +37,7 @@ Once the most optimized model was found, using a Keras sequential neural network
 ## Current Conclusion
 In analyzing the data, several themes emerge:
 
-(**ADD HERE, WITH VISUALIZATIONS**)
+(**ADD HERE, WITH VISUALIZATIONS**)![Arrests by Race](Tableau_Visualization_Data/Tableau%20Visualization%20Screenshots/Arrests%20by%20Race.PNG)
 
 Additionally, using machine learning, a predictor app was created that predicts whether a person is likely to be arrested if they encounter the police, based on demographic information provided. While the model was only able to achieve about 62% accuracy, a more accurate app could be developed in the future with more data.
 

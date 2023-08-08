@@ -39,19 +39,19 @@ In analyzing the data, several themes emerge:
 
 ![homelessness_race](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/64363c65-4401-4e6d-b73b-51aa230ce3fa)
 
-White people are less likely to be arrested if they are homeless, as opposed to people of color who are more likely to be arrested.
+Differential arrest rates are observed based on housing status and racial demographics, indicating that individuals belonging to the white demographic who experience homelessness exhibit lower likelihood of arrest, whereas individuals from marginalized communities, notably people of color, demonstrate a comparatively elevated likelihood of encountering arrests.
 
 ![age](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/151c0f61-9e03-4cd2-96be-4f8365cf7e79)
 
-People 45 and older are much less likely to get arrested following an encounter with the police than younger people (specifically 20-44).
+Significantly diminished arrest probabilities are discernible for individuals aged 45 and above subsequent to interactions with law enforcement personnel, in contrast to their younger counterparts within the age bracket of 20 to 44 years.
 
 ![race_months](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/92282cb6-4878-4ef0-951b-506a2c43905e)
 
-Black and Hispanic people are arrested the most.
+Heightened instances of arrests are evident within the Black and Hispanic population cohorts.
 
 ![arrests_encounters_useofforce](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/022f8507-149b-4deb-9017-ecb67630b410)
 
-Compared to the racial breakdown of the general population of Lancaster, Black people are disproportionately more likely to have encounters, be arrested, and have force used against them by the police.
+In comparison to the demographic distribution prevalent in the broader Lancaster community, an overrepresentation of Black individuals is notable in incidents involving encounters, arrests, and utilization of police force, underscoring a disproportionate occurrence.
 
 Additionally, using machine learning, a predictor app was created that predicts whether a person is likely to be arrested if they encounter the police, based on demographic information provided. While the model was only able to achieve about 62% accuracy, a more accurate app could be developed in the future with more data.
 

@@ -45,7 +45,7 @@ White people are less likely to be arrested if they are homeless, as opposed to 
 
 People 45 and older are much less likely to get arrested following an encounter with the police than younger people (specifically 20-44).
 
-![race_months](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/97c15a5a-38e8-44a7-a3ec-2500f4fe44a2)
+![race_months](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/c46dbd94-668c-41c0-8f22-e8c51243f56f)
 
 Black and Hispanic people are arrested the most.
 

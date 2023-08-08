@@ -14,7 +14,7 @@ By shedding light on the factors influencing arrests and policing disparities in
 ## Methodology
 The project focuses on Lancaster, CA, examining data related to police encounters and arrests. Factors that were considered include race, gender, homelessness, and disability. 
 
-The primary data source used is the 2019 [Los Angeles County Sheriff’s Deputy Contacts in Lancaster dataset](https://www.propublica.org/datastore/dataset/los-angeles-county-sheriffs-deputy-contacts-in-lancaster) from propublica.org. Additional demographic data was pulled from (**ADD SOURCE!**).
+The primary data source used is the 2019 [Los Angeles County Sheriff’s Deputy Contacts in Lancaster dataset](https://www.propublica.org/datastore/dataset/los-angeles-county-sheriffs-deputy-contacts-in-lancaster) from propublica.org. Additional demographic data was pulled from the [U.S. Census Bureau](https://www.census.gov/quickfacts/fact/table/lancastercitycalifornia/RHI225222#RHI225222).
 
 This project is comprised of two parts:
 1. Data Analysis
@@ -22,6 +22,8 @@ This project is comprised of two parts:
 
 ### Data Analysis
 First, the dataset was analyzed to find patterns and themes related to the factors that are involved in the outcomes of police interactions. Tableau was used to create visualizations demonstrating these themes. The data regarding police encounters in Lancaster, CA was combined with demographic information from the city in order to draw additional conclusions about disparities in policing.
+
+Visualizations: [Tableau Link](https://public.tableau.com/app/profile/henry.luken4860/viz/PrisonPipeline_Visualizations/ArrestsbyRace?publish=yes)
 
 ### Predictive Model
 Next, machine learning models were applied to the police encounters data in an effort to create a predictive model. In order to do this, the data was first cleaned, maintaining fields with demographic information and combining fields to create a target field indicating whether an encounter resulted in an arrest. 

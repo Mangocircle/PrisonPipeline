@@ -1,0 +1,145 @@
+Field,Source,Notes
+CONTACT_ID,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+PATROL_STATION,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+DATE_TIME,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+NUMBER_OF_MINUTES,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+STREET_NUMBER,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+DIRECTION,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+STREET,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+TYPE,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+SUITE,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+CROSS_STREET,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+LANDMARK,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+FULL_STREET,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+CITY,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+STATE,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+ZIP_CODE,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+K_12_SCHOOL,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,"From LASD Incident Details file, but ProPublica's analysis found this field to be unreliable"
+SCHOOL_NAME,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,"From LASD Incident Details file, but ProPublica's analysis found this field to be unreliable"
+CALL_FOR_SERVICE,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+CIVILIANS_CONTACTED,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Incident-Details/mwug-nk2r,From LASD Incident Details file
+Person ID,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Street #,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Street Direction,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Street Name,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Street Type,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Suite,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Cross Street,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Landmark,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Full Address,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+City,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+State,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Zip Code,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Age?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+K12 Student?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Limited or No English Fluency?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Perception Made,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Homeless?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Gender,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Race,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Disability,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reason for Contact,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reason for Contact Narrative,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Traffic Violation Type,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Traffic Violation Offense Code,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reasonable Suspicion that the Officer Witnessed Commission of a Crime?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reasonable Suspicion that the Person Matched Suspect Description?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reasonable Suspicion that the Person was a Witness or Victim ID of Suspect at the Scene?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reasonable Suspicion that the Person may be Carrying Suspicious Object?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reasonable Suspicion that the Person's Actions was Indicative of Casing a Victim or Location?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reasonable Suspicion that the Person was Suspected of Acting as a Lookout?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reasonable Suspicion that the Person's Actions was Indicative of a Drug Transaction?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Reasonable Suspicion that the Person's Actions was Indicative of Engaging in a Violent Crime?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Officer had Other Reasonable Suspicions of a Crime?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Offense Code of the Reasonable Suspicion,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Education Code Section,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Education Code Subdivision,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Person Removed from Vehicle by Order?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Person Removed from Vehicle by Physical Contact?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Field Sobriety Test Conducted?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Curbside Detention?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Person Handcuffed or Flex Cuffed?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Patrol Car Detention?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Canine Removed from Vehicle or Used to Search?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Firearm Pointed at Person?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Firearm Discharged or Used?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Electronic Control Device Used?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Impact Projectile Discharged or Used?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Canine Bit or Held Person?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Baton or Other Impact Weapon Used?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Chemical Spray Used?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Other Physical or Vehicle Contact?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Person Photographed?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search of Person Conducted?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Asked Consent to Search Person?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Asked Consent to Search Person Given?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search of Property Conducted?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Asked Consent to Search Property?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Asked Consent to Search Property Given?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property was Seized?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Vehicle Impounded?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Admission or Written Statement Obtained from Student?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+No Action Taken?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Consent Given?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Officer Safety/Safety of Others?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Search Warrant?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Condition of Parole/Probation/PRCS/Mandatory Supervision?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Suspected Weapons?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Visible Contraband?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Odor of Contraband?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Canine Detection?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Evidence of Crime?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Incident to Arrest?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Exigent Circumstances/Emergency?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Vehicle inventory?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Suspected of Violating of School Policy?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Search Basis: Reason,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seizure Basis: Safekeeping as Allowed by Law/Statute?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seizure Basis: Contraband?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seizure Basis: Evidence?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seizure Basis: Impound of Vehicle?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seizure Basis: Abandoned Property?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seizure Basis: Suspected of Violating of School Policy?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Firearm(s)?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Ammunition?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Weapon(s) Other than a Firearm?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Drug/Narcotics?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Alcohol?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Money?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Drug Paraphernalia?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Suspected Stolen Property?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Cell Phone(s) or Electronic Device(s)?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Vehicle?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Property Seized: Other Contraband or Evidence?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: None?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Firearm(s)?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Ammunition?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Weapon(s) Other than a Firearm?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Drugs/Narcotics?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Alcohol?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Money?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Drug Paraphernalia?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Suspected Stolen Property?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Cell Phone(s) or Electronic Device(s)?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Contraband Evidence Discovered: Other?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: No Action?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Warning?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Warning Offense Codes?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Citation for infraction?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact:Citation for Infraction Offense Codes?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact:  In-field Cite and Release?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact:  In-field Cite and Release Offense Codes?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Custodial Arrest Pursuant to Outstanding Warrant ?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Custodial Arrest Without Warrant?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Custodial Arrest Without Warrant Offense Codes?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Field Interview Card Completed?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Noncriminal Transport or Care Taking Transport?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Contacted Parent/Legal Guardian or other Person Responsible for Minor?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Psychiatric Hold?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Contacted U.S. Department of Homeland Security?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Referral to School Administrator?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Result of Contact: Referral to School Counselor or Other Support Staff?,https://data.lacounty.gov/Public-Safety/LASD-Officer-Contacts-Person-Details/wraf-ix3i,from LASD Person Details file
+Lat,ProPublica data processing,"Geocoded latitude, based on cleaned address information from contact Incident Details file"
+Lng,ProPublica data processing,"Geocoded longitude, based on cleaned address information from contact Incident Details file"
+AVUHSD_campus,ProPublica data processing,"Whether the contact took place at an Antelope Valley Unified High School District campus, based on the geocoded address and the campus footprints obtained from Python library OSMnx"
+AVUHSD_campus_name,ProPublica data processing,"Name of Antelope Valley Unified High School Disctrict campus, if applicable"

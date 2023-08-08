@@ -38,15 +38,19 @@ Once the most optimized model was found, using a Keras sequential neural network
 In analyzing the data, several themes emerge:
 
 ![homelessness_race](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/64363c65-4401-4e6d-b73b-51aa230ce3fa)
+
 White people are less likely to be arrested if they are homeless, as opposed to people of color who are more likely to be arrested.
 
 ![age](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/151c0f61-9e03-4cd2-96be-4f8365cf7e79)
+
 People 45 and older are much less likely to get arrested following an encounter with the police than younger people (specifically 20-44).
 
 ![race_months](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/97c15a5a-38e8-44a7-a3ec-2500f4fe44a2)
+
 Black and Hispanic people are arrested the most.
 
 ![arrests_encounters_useofforce](https://github.com/Mangocircle/PrisonPipeline/assets/121266277/022f8507-149b-4deb-9017-ecb67630b410)
+
 Compared to the racial breakdown of the general population of Lancaster, Black people are disproportionately more likely to have encounters, be arrested, and have force used against them by the police.
 
 Additionally, using machine learning, a predictor app was created that predicts whether a person is likely to be arrested if they encounter the police, based on demographic information provided. While the model was only able to achieve about 62% accuracy, a more accurate app could be developed in the future with more data.
